@@ -1,4 +1,4 @@
 const alert = () => {
-  alert('yujs')
+  alert('yujs2')
 }
 alert();
